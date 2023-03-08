@@ -9,12 +9,12 @@ function Navbar() {
           </div>
 
           <div className="buttons-list">
-              <  ul className = "lists">
+              <ul className = "lists">
                   <li>Home</li>
                   <li>events</li>
                   <li>Contact us</li>
-                  
               </ul>
+              
           </div>
 
           
